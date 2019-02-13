@@ -1,14 +1,16 @@
 {
   "name": "residenceone_saas",
   "version": "1.0.0",
-  "description": "",
+  "description": "Minimal reactjs boilerplate with webpack4, babel and eslint",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config ./webpack.config.js --mode development",
-		"build:dev": "webpack",
-		"build:prod": "webpack --mode production"
-	},
-  "keywords": [],
+    "build:dev": "webpack",
+    "build:prod": "webpack --mode production"
+  },
+  "keywords": [
+    "react boilerplate"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
@@ -35,7 +37,11 @@
     "webpack-dev-server": "^3.1.14"
   },
   "dependencies": {
-    "react": "^16.8.1",
-    "react-dom": "^16.8.1"
+		"react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+		"redux-logger": "^3.0.6"
   }
 }

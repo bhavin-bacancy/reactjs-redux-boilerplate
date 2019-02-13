@@ -2,6 +2,7 @@
 With webpack4 and scss setup
 
 
+
 ### Clone repo
 ```
 git clone "https://github.com/Kishan033/reactjs_boilerplate.git"
@@ -21,7 +22,7 @@ npm i
 ```
 npm start
 ```
-development server should start on 8080 port
+Development server should start on 8080 port
 
 ### For development build
 ```
@@ -30,5 +31,5 @@ npm run build:dev
 
 ### For production build
 ```
-npm run build:build
+npm run build:prod
 ```

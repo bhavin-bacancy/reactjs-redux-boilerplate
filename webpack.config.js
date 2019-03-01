@@ -36,7 +36,7 @@ module.exports = {
 		new ExtractTextPlugin('style.css'),
 		new HtmlWebpackPlugin({
 			template: "./index.html",
-      filename: "index.html"
+			filename: "index.html"
 		}),
 	],
 	devServer: {

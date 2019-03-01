@@ -5,12 +5,12 @@ With webpack4 and scss setup
 
 ### Clone repo
 ```
-git clone "https://github.com/Kishan033/reactjs_boilerplate.git"
+git clone "https://github.com/Kishan033/reactjs-redux-boilerplate.git"
 ```
 
 ### Navigate to root folder
 ```
-cd reactjs_boilerplate
+cd reactjs-redux-boilerplate
 ```
 
 ### Install dependencies

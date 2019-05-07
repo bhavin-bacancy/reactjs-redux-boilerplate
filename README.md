@@ -1,4 +1,4 @@
-# reactjs_boilerplate
+# reactjs-redux-boilerplate
 With webpack4 and scss setup
 
 

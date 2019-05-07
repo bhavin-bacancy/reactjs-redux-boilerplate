@@ -1,5 +1,5 @@
 {
-  "name": "residenceone_saas",
+  "name": "react-redux-boilerplate",
   "version": "1.0.0",
   "description": "Minimal reactjs boilerplate with webpack4, babel and eslint",
   "main": "index.js",
@@ -37,11 +37,11 @@
     "webpack-dev-server": "^3.1.14"
   },
   "dependencies": {
-		"react": "^16.8.1",
+    "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "react-redux": "^6.0.0",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
-		"redux-logger": "^3.0.6"
+    "redux-logger": "^3.0.6"
   }
 }

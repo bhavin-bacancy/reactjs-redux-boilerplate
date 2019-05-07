@@ -5,7 +5,7 @@ With webpack4 and scss setup
 
 ### Clone repo
 ```
-git clone "https://github.com/Kishan033/reactjs-redux-boilerplate.git"
+git clone "https://github.com/bhavin-bacancy/reactjs-redux-boilerplate.git"
 ```
 
 ### Navigate to root folder

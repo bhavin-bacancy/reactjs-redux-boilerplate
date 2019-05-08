@@ -7,9 +7,9 @@ function App({ userReducer, dispatch }) {
 	return (
 		<div>
 			{/* eslint-disable-next-line max-len */}
-			<button type="button" onClick={() => dispatch(setUserInfo({ name: 'Bhavin', age: 23 }))}>Display</button>
+			<button type="button" onClick={() => dispatch(setUserInfo({ name: 'test' }))}> Display </button>
 			<div>
-				<h4>
+				<h4> 
 					{userReducer.name}
 				</h4>
 				<h4>
